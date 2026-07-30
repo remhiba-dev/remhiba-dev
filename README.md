@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Hiba Remini
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Junior+Front-End+Developer;Founder+of+Pixo+Labs;Building+Digital+Experiences" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Junior+Front-End+Developer;Founder+of+Pixo+Labs;Building+Digital+Solutions" />
+</p>
 
 ---
 
@@ -13,30 +15,30 @@ class Hiba extends Developer {
   String role = "Computer Science Student | Junior Front-End Developer";
   String project = "Pixo Labs 🚀";
 
-  List<String> skills = [
+  List<String> skills = {
     "Web Development",
     "UI/UX Design",
     "Software Engineering",
-    "Open Source"
-  ];
+    "Digital Solutions"
+  };
 
-  List<String> learning = [
+  List<String> learning = {
     "React",
     "Flutter",
     "Backend Development"
-  ];
+  };
 }
 ```
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
 
-<img src="https://skilicon.dev/icons?i=python" width="55"/>
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
 <img src="https://skillicons.dev/icons?i=javascript" width="55"/>
 <img src="https://skillicons.dev/icons?i=java" width="55"/>
 <img src="https://skillicons.dev/icons?i=cpp" width="55"/>
@@ -45,30 +47,31 @@ class Hiba extends Developer {
 </p>
 
 
-### 🌐 Front-End Development
+## 🌐 Front-End Development
 
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=html" width="55"/>
 <img src="https://skillicons.dev/icons?i=css" width="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
 <img src="https://skillicons.dev/icons?i=react" width="55"/>
 <img src="https://skillicons.dev/icons?i=flutter" width="55"/>
 
 </p>
 
 
-### 🗄️ Database
+## 🗄️ Database
 
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=firebase" width="55"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="55"/>
 <img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/>
 
 </p>
 
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 <p align="left">
 
@@ -83,7 +86,7 @@ class Hiba extends Developer {
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - ⚛️ React.js
 - 📱 Flutter & Dart
@@ -93,47 +96,39 @@ class Hiba extends Developer {
 
 ---
 
-## 💜 Pixo Labs
+# 💜 Pixo Labs
 
-Founder of **Pixo Labs** 🚀
+Founder of **Pixo Labs 🚀**
 
 A personal project focused on:
 
 ✨ Web Development  
-✨ Digital Design  
-✨ Learning Resources  
+✨ UI/UX Design  
+✨ Programming Education  
 ✨ Creating Digital Solutions  
 
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=remhiba-dev&show_icons=true&theme=tokyonight"/>
 </p>
-
-
 ---
 
-## 🌍 Connect With Me
+# 🌍 Connect With Me
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hibaremini005">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/pixo_pixel?igsh=anZhM29jazJ5MWp5">
 <img src="https://skillicons.dev/icons?i=instagram" width="55"/>
-</a>
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 </p>
@@ -141,7 +136,7 @@ A personal project focused on:
 
 ---
 
-## ⚡ Code Cycle
+# ⚡ Code Cycle
 
 ```
 Learn 📚
@@ -155,4 +150,5 @@ Share 🌍
 Repeat 🔁
 ```
 
-⭐ "Turning ideas into code, and code into solutions."
+
+⭐ **"Turning ideas into code, and code into solutions."**
